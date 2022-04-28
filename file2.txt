@@ -1,0 +1,2 @@
+soft reset
+soft reset itter2
