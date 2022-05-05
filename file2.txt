@@ -1,3 +1,2 @@
 soft reset
 soft reset itter2
-fixing bug
